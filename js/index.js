@@ -3,6 +3,11 @@
   greetProgrammer();
   => "Hello, programmer!"
 */
+
+
+
+
+
 function greetProgrammer() {
   console.log("Hello, programmer!");
 }
